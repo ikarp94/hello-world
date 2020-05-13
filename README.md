@@ -1,3 +1,3 @@
 # hello-world
-Just a repository
-I like traveling
+I travel and my dream is to go around the world!!!
+
